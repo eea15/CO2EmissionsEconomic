@@ -1,0 +1,55 @@
+country,year,co2
+United States,1990,0.477
+United States,1991,0.477
+United States,1992,0.47
+United States,1993,0.468
+United States,1994,0.456
+United States,1995,0.447
+United States,1996,0.441
+United States,1997,0.432
+United States,1998,0.416
+United States,1999,0.404
+United States,2000,0.402
+United States,2001,0.391
+United States,2002,0.387
+United States,2003,0.379
+United States,2004,0.37
+United States,2005,0.36
+United States,2006,0.344
+United States,2007,0.343
+United States,2008,0.333
+United States,2009,0.321
+United States,2010,0.32
+United States,2011,0.308
+United States,2012,0.291
+United States,2013,0.29
+United States,2014,0.286
+United States,2015,0.273
+United States,2016,0.263
+China,1990,1.51
+China,1991,1.45
+China,1992,1.33
+China,1993,1.25
+China,1994,1.18
+China,1995,1.15
+China,1996,1.09
+China,1997,1
+China,1998,0.891
+China,1999,0.826
+China,2000,0.781
+China,2001,0.739
+China,2002,0.747
+China,2003,0.801
+China,2004,0.838
+China,2005,0.848
+China,2006,0.833
+China,2007,0.748
+China,2008,0.769
+China,2009,0.704
+China,2010,0.738
+China,2011,0.748
+China,2012,0.714
+China,2013,0.678
+China,2014,0.633
+China,2015,0.583
+China,2016,0.532
