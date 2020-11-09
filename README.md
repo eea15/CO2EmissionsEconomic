@@ -10,5 +10,5 @@ I used plotly, pandas, and dash with python to create a simple webapp displaying
 The results were as follows:
 ![Image of Graph](graph.PNG)
 
-Note: When deployed or run from you rlocal machine, the graph is interactive; you can hover over a point for specific data.
+Note: When deployed or run from your local machine, the graph is interactive; you can hover over a point for specific data.
 
