@@ -4,9 +4,7 @@ import pandas as pd # geospatial data
 import dash # framework for building analytical web apps
 import dash_core_components as dcc
 import dash_html_components as html
-# run via http://127.0.0.1:8050/
-# uhhh figure out which data and plot will be easy to use
-# current csv but edit as excel with year and emissions column
+# data from https://www.gapminder.org/data/
 df = pd.read_csv('co2_intensity_economic.csv')
 fig = px.line(df, x="year", y="co2", color="country", title="CO2 Intensity of Economic Output (kg CO2 per 2011 PPP $ of GDP)")
 
