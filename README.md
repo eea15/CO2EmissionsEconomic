@@ -8,5 +8,7 @@ While writing a research paper on the changing GDP of the USA and China, I decid
 I used plotly, pandas, and dash with python to create a simple webapp displaying this data. The data is from www.gapminder.org/data/, a Swedish organization that collects reliable statistics.
 
 The results were as follows:
-![Image of Graph](graph.png)
+![Image of Graph](graph.PNG)
+
+Note: the graph is interactive; hover over a point for specific data.
 
